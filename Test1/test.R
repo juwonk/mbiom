@@ -1,3 +1,3 @@
 #!/usr/bin/Rscript
 
-print('a')
+print('ab')
